@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-ut-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^24.9.0",
+    "jest-cli": "^24.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandeepkv93/nodejs-ut-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandeepkv93/nodejs-ut-example/issues"
+  },
+  "homepage": "https://github.com/sandeepkv93/nodejs-ut-example#readme"
+}
